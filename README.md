@@ -68,3 +68,6 @@ This dashboard provides a **360° view of business performance**, enabling analy
 * Power BI
 * DAX Measures
 * Interactive Filters & Visualizations
+
+    Get interactive report :
+   https://app.powerbi.com/links/dusBVL4OC7?ctid=8e0fb5d9-30bb-43e8-bee7-2fe286f0f07a&pbi_source=linkShare
